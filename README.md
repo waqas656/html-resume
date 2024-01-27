@@ -1,2 +1,2 @@
 # html-resume
-Resume / CV using HTML
+Personal reesume / CV using HTML
